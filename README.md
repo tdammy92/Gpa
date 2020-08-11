@@ -1,5 +1,5 @@
 # gpa-app
-gpa app for Taiwo Damilola
+gpa app for Federal University of Gashua
 
 1. Download .zip file from GitHub and unzip.
 
